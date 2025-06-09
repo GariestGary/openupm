@@ -1,0 +1,21 @@
+name: com.bazyleu.unistate
+displayName: UniState
+description: >-
+  UniState is a modern, high-performance, scalable state machine package for
+  Unity.
+repoUrl: https://github.com/bazyleu/UniState
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+image: ''
+topics:
+  - ai
+  - frameworks
+  - parallelism-and-concurrency
+  - utilities
+hunter: GariestGary
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: main:README.md
+createdAt: 1749473731556
